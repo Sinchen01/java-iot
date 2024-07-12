@@ -1,0 +1,49 @@
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\bin\Debug\SoldierMonitoring.exe
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\bin\Debug\SoldierMonitoring.pdb
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.AddSoldierorm.resources
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.Form1.resources
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.MainScreen.resources
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.Properties.Resources.resources
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.Settings.resources
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.ViewPanicLocations.resources
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.WelcomeScreen.resources
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoilderMonitoring.csproj.GenerateResource.Cache
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.exe
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.pdb
+F:\2020-2021\no soilder left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoilderMonitoring.csprojResolveAssemblyReference.cache
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.exe
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.pdb
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\bin\Debug\SoldierMonitoring.exe
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\bin\Debug\SoldierMonitoring.pdb
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.AddSoldierorm.resources
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.Form1.resources
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.MainScreen.resources
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.Properties.Resources.resources
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.Settings.resources
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.ViewPanicLocations.resources
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.WelcomeScreen.resources
+F:\2020-2021\no soldier left behind\soilder tracking\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoilderMonitoring.csproj.GenerateResource.Cache
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.exe
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.pdb
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\bin\Debug\SoldierMonitoring.exe
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\bin\Debug\SoldierMonitoring.pdb
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoilderMonitoring.csprojResolveAssemblyReference.cache
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.AddSoldierorm.resources
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.MainScreen.resources
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.Properties.Resources.resources
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.Settings.resources
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.ViewPanicLocations.resources
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.WelcomeScreen.resources
+F:\2020-2021\no soldier left behind\webnet - intermediate copy\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoilderMonitoring.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoilderMonitoring.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoilderMonitoring.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.AddSoldierorm.resources
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.MainScreen.resources
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.Settings.resources
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.ViewPanicLocations.resources
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\GeoAutoRunner.WelcomeScreen.resources
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoilderMonitoring.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoilderMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.exe
+C:\Users\user\OneDrive\Desktop\GeoAutoRunner\GeoAutoRunner\obj\x86\Debug\SoldierMonitoring.pdb
